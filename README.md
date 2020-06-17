@@ -9,6 +9,7 @@ By the end of the session students should be able to:
 * [ ] Explain how information criteria help find the best value for the regularisation hyper-parameters
 * [ ] Describe the pre-processing necessary before applying regularisation
 * [ ] Run regularisation applied to linear regression learners
+* [ ] Compare the impact of regularisation when applied to datasets of increasing complexity/size
 
 ## Resources
 
